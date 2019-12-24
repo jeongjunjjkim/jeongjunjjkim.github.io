@@ -8,6 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-## Current Research
-
-## Previous Research
+Current Research
+======
+* TBD
+    
+Previous Research
+======
+* Dendritic glutamate imaging
+* In vivo voltage imaging
