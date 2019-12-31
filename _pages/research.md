@@ -15,4 +15,6 @@ Current Research
 Previous Research
 ======
 * Dendritic glutamate imaging
+![glu-imaging](/images/glutamate-imaging.jpg)
 * In vivo voltage imaging
+![volt-imaging](/images/voltage-imaging.png)
